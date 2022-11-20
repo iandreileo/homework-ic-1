@@ -1,0 +1,3 @@
+INTEGRITY_LEN=1
+SERVER_PUBLIC_BANNER=b"||||"
+FLAG="fake_flag"
