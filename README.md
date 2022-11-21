@@ -2,8 +2,6 @@
 
 ## Cerinta 1
 
-Pas 0. Pentru a rula `server.py` este nevoie de `python3` si `pycryptodome` (`pip3 install pycryptodome`)
-
 Pas 1 si 2. Server-ul are urmatoarele functionalitati:
 
 - obtinerea unui token de autentificare pentru user-ul `Anonymous`
